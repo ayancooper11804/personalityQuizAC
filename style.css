@@ -1,0 +1,29 @@
+main{
+
+	text-align: center;
+
+}
+
+#submit, #tryagain{
+
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto; 
+	margin-bottom: 10px;
+
+}
+
+#submit{
+
+	display: none;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	width: 250px;
+	height: 400px;
+	background-repeat: none;
+	background-size: cover;
+	background-position: center; 
+}
+
