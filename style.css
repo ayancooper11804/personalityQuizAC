@@ -1,7 +1,6 @@
 main{
 
 	text-align: center;
-
 }
 
 #submit, #tryagain{
@@ -27,3 +26,7 @@ main{
 	background-position: center; 
 }
 
+body{
+	text-align: center;
+	background-color: blue;
+}
